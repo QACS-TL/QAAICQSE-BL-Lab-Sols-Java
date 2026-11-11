@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: lab3.exemplar.UserControllerTest
+-------------------------------------------------------------------------------
+Tests run: 5, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 2.592 s -- in lab3.exemplar.UserControllerTest

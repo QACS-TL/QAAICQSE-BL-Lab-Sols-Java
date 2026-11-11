@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: lab3.exemplar.UserApiSecurityTest
+-------------------------------------------------------------------------------
+Tests run: 13, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 15.67 s -- in lab3.exemplar.UserApiSecurityTest
